@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDmurjihsfkIm4Okpy2L1Uw3Ng2Zz5Eh2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>680049142886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pwr.edu.MyMap</string>
+	<key>PROJECT_ID</key>
+	<string>mymap-d348e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mymap-d348e.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:680049142886:ios:10dba01c591e790b5f51a7</string>
+</dict>
+</plist>
