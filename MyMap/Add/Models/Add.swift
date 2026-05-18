@@ -8,5 +8,5 @@ import Foundation
 import SwiftUI
 
 struct Add: Codable{
-    var city: String
+    var city : String
 }
